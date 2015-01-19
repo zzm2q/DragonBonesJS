@@ -25,7 +25,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-
+/// <reference path="Event.ts"/>
 module dragonBones {
 
 	export class ArmatureEvent extends Event{

@@ -25,7 +25,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-
+/// <reference path="Timeline.ts"/>
 module dragonBones {
 
 	export class AnimationData extends Timeline{

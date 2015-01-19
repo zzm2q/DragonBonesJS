@@ -25,7 +25,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-
+/// <reference path="DBObject.ts"/>
 module dragonBones {
 
 	export class Slot extends DBObject{

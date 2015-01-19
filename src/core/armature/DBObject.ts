@@ -25,7 +25,8 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-
+/// <reference path="../geom/Matrix.ts"/>
+/// <reference path="../model/DBTransform.ts"/>
 module dragonBones {
 
 	export class DBObject{

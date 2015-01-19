@@ -25,7 +25,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-
+/// <reference path="Frame.ts"/>
 module dragonBones {
 
 	export class TransformFrame extends Frame{

@@ -25,10 +25,10 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-
+/// <reference path="../events/EventDispatcher.ts"/>
 module dragonBones {
 
-	export class Armature extends EventDispatcher implements IAnimatable{
+	export class Armature extends EventDispatcher implements IAnimatable {
 		public __dragonBonesData:DragonBonesData;
 		
 		

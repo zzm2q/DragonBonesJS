@@ -25,7 +25,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-
+/// <reference path="Event.ts"/>
 module dragonBones {
 	export class FrameEvent extends Event{
 		public static get MOVEMENT_FRAME_EVENT():string{

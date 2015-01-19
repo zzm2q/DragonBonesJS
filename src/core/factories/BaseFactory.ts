@@ -25,7 +25,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-
+/// <reference path="../events/EventDispatcher.ts"/>
 module dragonBones {
 
 	export class BaseFactory  extends EventDispatcher{
